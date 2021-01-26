@@ -2,7 +2,12 @@ body {
     background-color: lightblue;
 }
 
-p{
+p {
     font-size: 200%;
     color: purple;
+}
+
+ol {
+    list-style-type: circle;
+    background: yellow;
 }
