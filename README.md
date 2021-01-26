@@ -1,2 +1,2 @@
 # DSW-CSS-example
-http://sky-adams.github.io/DSW-CSS-example
+https://seanhelvey.github.io/DSW-CSS-example/
